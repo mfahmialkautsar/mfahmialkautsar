@@ -7,4 +7,4 @@ Welcome to my codepark 🌳
 <code title="Android" alt="Android"><img width="32px" height="32px" src="./img/android-logo.svg"/></code>
 
 ---
-<a href="https://www.linkedin.com/in/mfahmialkautsar" alt="LinkedIn" title="LinkedIn"><img width="48px" height="48px" src="./img/linkedin-logo.svg"/></a>
+<a href="https://www.linkedin.com/in/mfahmialkautsar" target="_blank" alt="LinkedIn" title="LinkedIn"><img width="48px" height="48px" src="./img/linkedin-logo.svg"/></a>
