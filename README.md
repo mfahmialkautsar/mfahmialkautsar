@@ -8,17 +8,26 @@ Welcome to my CodePark 🌳
 <a title="Web" alt="Web" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aweb"><img width="26" height="32" src="./assets/images/icons/www.svg"/></a>
 <a title="iOS" alt="iOS" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aios"><img height="32" src="./assets/images/icons/ios.svg"/></a>
 <a title="Android" alt="Android" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aandroid"><img height="32" src="./assets/images/icons/android.svg"/></a>
+<a title="Tensorflow" alt="Tensorflow" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Atensorflow"><img height="32" src="./assets/images/icons/tensorflow.svg"/></a>
+<a title="Kubernetes" alt="Kubernetes"><img height="32" src="./assets/images/icons/kubernetes.svg"/></a>
+<a title="Docker" alt="Docker" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Adocker"><img height="32" src="./assets/images/icons/docker.svg"/></a>
+<a title="RabbitMQ" alt="RabbitMQ" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Arabbitmq"><img height="28" src="./assets/images/icons/rabbitmq.svg"/></a>
 <a title="Amazon Web Services" alt="AWS" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aaws"><img height="32" src="./assets/images/icons/aws.svg"/></a>
 <a title="Firebase" alt="Firebase" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Afirebase"><img height="32" src="./assets/images/icons/firebase.svg"/></a>
 <a title="React" alt="React" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Areact"><img height="32" src="./assets/images/icons/reactjs.svg"/></a>
 <a title="Vue" alt="Vue" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Avue"><img height="32" src="./assets/images/icons/vuejs.svg"/></a>
+<a title="Redux" alt="Redux" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aredux"><img height="32" src="./assets/images/icons/redux.svg"/></a>
+<a title="TailwindCSS" alt="TailwindCSS" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Atailwindcss"><img height="32" src="./assets/images/icons/tailwind-css.svg"/></a>
 <a title="Realm" alt="Realm" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Arealm"><img height="32" src="./assets/images/icons/realm.svg"/></a>
+<a title="Nginx" alt="Nginx"><img height="32" src="./assets/images/icons/nginx.svg"/></a>
 <a title="Spring" alt="Spring" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aspring"><img height="32" src="./assets/images/icons/spring.svg"/></a>
-<a title="Hapi.js" alt="Hapi.js" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Ahapi"><img height="32" src="./assets/images/icons/hapijs.png"/></a>
+<a title="Hapi.js" alt="Hapi.js" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Ahapi"><img height="32" src="./assets/images/icons/hapi.svg"/></a>
 <a title="Express" alt="Express" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aexpress"><img height="32" src="./assets/images/icons/express.svg"/></a>
+<a title="Next.js" alt="Next.js"><img height="32" src="./assets/images/icons/next.js.svg"/></a>
 <a title="Laravel" alt="Laravel" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Alaravel"><img height="32" src="./assets/images/icons/laravel.svg"/></a>
 <a title="Lumen" alt="Lumen" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Alumen"><img height="32" src="./assets/images/icons/lumen.svg"/></a>
 <a title="PostgreSQL" alt="PostgreSQL" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Apostgresql"><img height="32" src="./assets/images/icons/postgresql.svg"/></a>
+<a title="Selenium" alt="Selenium"><img height="32" src="./assets/images/icons/selenium.svg"/></a>
 <a title="Jest" alt="Jest" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Ajest"><img height="32" src="./assets/images/icons/jest.svg"/></a>
 <a title="TravisCI" alt="TravisCI" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Atravis-ci"><img height="32" src="./assets/images/icons/travisci.svg"/></a>
 <a title="HTML" alt="HTML" href="https://github.com/mfahmialkautsar?tab=repositories&language=html"><img height="32" src="./assets/images/icons/html.svg"/></a>
