@@ -3,6 +3,11 @@
 Welcome to my CodePark 🌳
 <br/>
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats-liart-omega-36.vercel.app/api?username=mfahmialkautsar&show_icons=true&hide=issues" alt="mfahmialkautsar-stats" />
+  <img align="center" src="https://github-readme-stats-liart-omega-36.vercel.app/api/top-langs?username=mfahmialkautsar&show_icons=true&layout=compact&hide=html,css,jupyter%20notebook,javascript,scss,blade,shell,ruby,php&size_weight=0.5&count_weight=0.5" alt="mfahmialkautsar-languages" />
+</div>
+
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24">
 
 <a title="Web" alt="Web" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aweb"><img width="26" height="32" src="./assets/images/icons/www.svg"/></a>
@@ -22,6 +27,7 @@ Welcome to my CodePark 🌳
 <a title="Nginx" alt="Nginx"><img height="32" src="./assets/images/icons/nginx.svg"/></a>
 <a title="Spring" alt="Spring" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aspring"><img height="32" src="./assets/images/icons/spring.svg"/></a>
 <a title="Hapi.js" alt="Hapi.js" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Ahapi"><img height="32" src="./assets/images/icons/hapi.svg"/></a>
+<a title="NestJS" alt="NestJS" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Anestjs"><img height="32" src="./assets/images/icons/nestjs.svg"/></a>
 <a title="Express" alt="Express" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aexpress"><img height="32" src="./assets/images/icons/express.svg"/></a>
 <a title="Next.js" alt="Next.js"><img height="32" src="./assets/images/icons/next.js.svg"/></a>
 <a title="Laravel" alt="Laravel" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Alaravel"><img height="32" src="./assets/images/icons/laravel.svg"/></a>
