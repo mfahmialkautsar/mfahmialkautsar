@@ -22,7 +22,6 @@ Welcome to my CodePark 🌳
 <a title="Go" href="https://github.com/mfahmialkautsar?tab=repositories&language=go"><img alt="Go" height="40" src="./assets/images/icons/go.svg"/></a>
 <a title="TypeScript" href="https://github.com/mfahmialkautsar?tab=repositories&language=typescript"><img alt="TypeScript" height="40" src="./assets/images/icons/typescript.svg"/></a>
 <a title="Python" href="https://github.com/mfahmialkautsar?tab=repositories&language=python"><img alt="Python" height="40" src="./assets/images/icons/python.svg"/></a>
-<a title="PHP" href="https://github.com/mfahmialkautsar?tab=repositories&language=php"><img alt="PHP" height="40" src="./assets/images/icons/php.svg"/></a>
 <a title="Java" href="https://github.com/mfahmialkautsar?tab=repositories&language=java"><img alt="Java" height="40" src="./assets/images/icons/java.svg"/></a>
 <a title="Swift" href="https://github.com/mfahmialkautsar?tab=repositories&language=swift"><img alt="Swift" height="40" src="./assets/images/icons/swift.svg"/></a>
 <a title="HTML" href="https://github.com/mfahmialkautsar?tab=repositories&language=html"><img alt="HTML" height="40" src="./assets/images/icons/html.svg"/></a>
@@ -59,12 +58,6 @@ Welcome to my CodePark 🌳
 ## Backend
 
 <a title="Gin" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Agin"><img alt="Gin" height="40" src="./assets/images/icons/gin.png"/></a>
-<a title="Fiber" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Afiber">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/icons/gofiber-dark.svg">
-    <img height="40" alt="Fiber" src="./assets/images/icons/gofiber.svg">
-  </picture>
-</a>
 <a title="NestJS" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Anestjs"><img alt="NestJS" height="40" src="./assets/images/icons/nestjs.svg"/></a>
 <a title="Express" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aexpress">
   <picture>
@@ -85,8 +78,6 @@ Welcome to my CodePark 🌳
   </picture>
 </a>
 <a title="Bun" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Abun"><img alt="Bun" height="40" src="./assets/images/icons/bun.svg"/></a>
-<a title="Spring" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aspring"><img alt="Spring" height="40" src="./assets/images/icons/spring.svg"/></a>
-<a title="Laravel" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Alaravel"><img alt="Laravel" height="40" src="./assets/images/icons/laravel.svg"/></a>
 
 ## Database
 
@@ -99,21 +90,11 @@ Welcome to my CodePark 🌳
 <a title="Docker" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Adocker"><img alt="Docker" height="40" src="./assets/images/icons/docker.svg"/></a>
 <a title="Kubernetes" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Akubernetes"><img alt="Kubernetes" height="40" src="./assets/images/icons/kubernetes.svg"/></a>
 <a title="Nginx" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Anginx"><img alt="Nginx" height="40" src="./assets/images/icons/nginx.svg"/></a>
-<a title="TravisCI" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Atravis-ci"><img alt="TravisCI" height="40" src="./assets/images/icons/travisci.svg"/></a>
+<a title="GitHub Actions"><img alt="GitHub Actions" height="40" src="./assets/images/icons/github-actions.svg"/></a>
 
 ## Cloud
 
 <a title="Google Cloud" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Agcp"><img alt="GCP" height="40" src="./assets/images/icons/gcp.svg"/></a>
-<a title="Amazon Web Services" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Aaws">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/icons/aws-dark.svg">
-    <img height="40" alt="AWS" src="./assets/images/icons/aws.svg">
-  </picture>
-</a>
-
-## ML/AI
-
-<a title="Tensorflow" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Atensorflow"><img alt="Tensorflow" height="40" src="./assets/images/icons/tensorflow.svg"/></a>
 
 ## Testing
 
@@ -130,6 +111,10 @@ Welcome to my CodePark 🌳
 
 | <strong>REST</strong> | <a title="GraphQL" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Agraphql"><img alt="GraphQL" height="40" src="./assets/images/icons/graphql.svg"/></a> | <strong>WebSocket</strong> |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+
+## ML/AI
+
+<a title="Tensorflow" href="https://github.com/mfahmialkautsar?tab=repositories&q=topic%3Atensorflow"><img alt="Tensorflow" height="40" src="./assets/images/icons/tensorflow.svg"/></a>
 
 ## Others
 
