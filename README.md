@@ -102,15 +102,25 @@ Welcome to my CodePark 🌳
 <a title="Selenium" href="https://www.selenium.dev"><img alt="Selenium" height="40" src="./assets/images/icons/selenium.svg" style="height: 40px;"/></a>
 <a title="Jest" href="https://jestjs.io"><img alt="Jest" height="40" src="./assets/images/icons/jest.svg" style="height: 40px;"/></a>
 
-## Message Queue
+## Observability
 
-<a title="RabbitMQ" href="https://www.rabbitmq.com"><img alt="RabbitMQ" height="40" src="./assets/images/icons/rabbitmq.svg" style="height: 40px;"/></a>
+<a title="Grafana Loki" href="https://grafana.com/oss/loki"><img alt="Grafana Loki" height="40" src="./assets/images/icons/grafana-loki.svg" style="height: 40px;"/></a>
+<a title="Grafana" href="https://grafana.com"><img alt="Grafana" height="40" src="./assets/images/icons/grafana.svg" style="height: 40px;"/></a>
+<a title="Grafana Tempo" href="https://grafana.com/oss/tempo"><img alt="Grafana Tempo" height="40" src="./assets/images/icons/grafana-tempo.svg" style="height: 40px;"/></a>
+<a title="Grafana Mimir" href="https://grafana.com/oss/mimir"><img alt="Grafana Mimir" height="40" src="./assets/images/icons/grafana-mimir.svg" style="height: 40px;"/></a>
+<a title="Prometheus" href="https://prometheus.io"><img alt="Prometheus" height="40" src="./assets/images/icons/prometheus.svg" style="height: 40px;"/></a>
+<a title="Grafana Alloy" href="https://grafana.com/oss/alloy"><img alt="Grafana Alloy" height="40" src="./assets/images/icons/grafana-alloy.svg" style="height: 40px;"/></a>
+<a title="OpenTelemetry" href="https://opentelemetry.io"><img alt="OpenTelemetry" height="40" src="./assets/images/icons/opentelemetry.svg" style="height: 40px;"/></a>
 
 ## API Protocol
 
-
-| <strong>REST</strong> | <a title="GraphQL" href="https://graphql.org"><img alt="GraphQL" height="40" src="./assets/images/icons/graphql.svg" style="height: 40px;"/></a> | <strong>WebSocket</strong> |
+| <strong>REST</strong> | <a title="GraphQL" href="https://graphql.org"><img alt="GraphQL" height="40" src="./assets/images/icons/graphql.svg" style="height: 40px;"/></a> | <a title="WebSocket" href="https://websocket.org"><img alt="WebSocket" height="40" src="./assets/images/icons/websocket.svg" style="height: 40px;"/></a> |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+
+## Event-Driven
+
+<a title="RabbitMQ" href="https://www.rabbitmq.com"><img alt="RabbitMQ" height="40" src="./assets/images/icons/rabbitmq.svg" style="height: 40px;"/></a>
+<a title="NATS" href="https://nats.io"><img alt="NATS" height="40" src="./assets/images/icons/nats.svg" style="height: 40px;"/></a>
 
 ## ML/AI
 
