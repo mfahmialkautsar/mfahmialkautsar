@@ -10,7 +10,7 @@ Welcome to my CodePark 🌳
 
 <div align="center">
   <img align="center" src="https://github-readme-stats-liart-omega-36.vercel.app/api?username=mfahmialkautsar&show_icons=true&hide=issues" alt="Fahmi's stats" />
-  <img align="center" src="https://github-readme-stats-liart-omega-36.vercel.app/api/top-langs?username=mfahmialkautsar&show_icons=true&layout=compact&hide=html,css,jupyter%20notebook,javascript,scss,blade,shell,ruby,php&size_weight=0.5&count_weight=0.5" alt="Fahmi's top languages" />
+  <img align="center" src="https://github-readme-stats-liart-omega-36.vercel.app/api/top-langs?username=mfahmialkautsar&show_icons=true&layout=compact&hide=html,css,jupyter%20notebook,javascript,scss,blade,shell,ruby,php,makefile&size_weight=0.5&count_weight=0.5" alt="Fahmi's top languages" />
 </div>
 
 <br/>
