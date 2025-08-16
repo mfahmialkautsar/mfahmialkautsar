@@ -122,6 +122,16 @@ Welcome to my CodePark 🌳
 <a title="RabbitMQ" href="https://www.rabbitmq.com"><img alt="RabbitMQ" height="40" src="./assets/images/icons/rabbitmq.svg" style="height: 40px;"/></a>
 <a title="NATS" href="https://nats.io"><img alt="NATS" height="40" src="./assets/images/icons/nats.svg" style="height: 40px;"/></a>
 
+## Infrastructure as Code
+
+<a title="Terraform" href="https://www.terraform.io"><img alt="Terraform" height="40" src="./assets/images/icons/terraform.svg" style="height: 40px;"/></a>
+<a title="Ansible" href="https://www.ansible.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/icons/ansible-dark.svg">
+    <img alt="Ansible" height="40" src="./assets/images/icons/ansible.svg" style="height: 40px;"/>
+  </picture>
+</a>
+
 ## ML/AI
 
 <a title="Tensorflow" href="https://www.tensorflow.org"><img alt="Tensorflow" height="40" src="./assets/images/icons/tensorflow.svg" style="height: 40px;"/></a>
