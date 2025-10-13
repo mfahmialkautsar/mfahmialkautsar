@@ -10,7 +10,7 @@ Welcome to my CodePark 🌳
 
 <div align="center">
   <img align="center" src="https://github-readme-stats-liart-omega-36.vercel.app/api?username=mfahmialkautsar&show_icons=true&hide=issues" alt="Fahmi's stats" />
-  <img align="center" src="https://github-readme-stats-liart-omega-36.vercel.app/api/top-langs?username=mfahmialkautsar&show_icons=true&layout=compact&hide=html,css,jupyter%20notebook,javascript,scss,blade,shell,ruby,php,makefile&size_weight=0.5&count_weight=0.5" alt="Fahmi's top languages" />
+  <img align="center" src="https://github-readme-stats-liart-omega-36.vercel.app/api/top-langs?username=mfahmialkautsar&show_icons=true&layout=compact&hide=html,css,jupyter%20notebook,javascript,scss,blade,shell,ruby,php,makefile,dockerfile&size_weight=0.5&count_weight=0.5" alt="Fahmi's top languages" />
 </div>
 
 <br/>
@@ -98,8 +98,7 @@ Welcome to my CodePark 🌳
 
 ## Testing
 
-<a title="Katalon" href="https://katalon.com"><img alt="Katalon" height="40" src="./assets/images/icons/katalon.svg" style="height: 40px;"/></a>
-<a title="Selenium" href="https://www.selenium.dev"><img alt="Selenium" height="40" src="./assets/images/icons/selenium.svg" style="height: 40px;"/></a>
+<a title="Playwright" href="https://playwright.dev"><img alt="Playwright" height="40" src="./assets/images/icons/playwright.svg" style="height: 40px;"/></a>
 <a title="Jest" href="https://jestjs.io"><img alt="Jest" height="40" src="./assets/images/icons/jest.svg" style="height: 40px;"/></a>
 
 ## Observability
@@ -114,8 +113,8 @@ Welcome to my CodePark 🌳
 
 ## API Protocol
 
-| <strong>REST</strong> | <a title="GraphQL" href="https://graphql.org"><img alt="GraphQL" height="40" src="./assets/images/icons/graphql.svg" style="height: 40px;"/></a> | <a title="WebSocket" href="https://websocket.org"><img alt="WebSocket" height="40" src="./assets/images/icons/websocket.svg" style="height: 40px;"/></a> |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| <strong>REST</strong> | <a title="gRPC" href="https://grpc.io"><img alt="gRPC" height="40" src="./assets/images/icons/grpc.svg" style="height: 40px;"/></a> | <a title="GraphQL" href="https://graphql.org"><img alt="GraphQL" height="40" src="./assets/images/icons/graphql.svg" style="height: 40px;"/></a> | <a title="WebSocket" href="https://websocket.org"><img alt="WebSocket" height="40" src="./assets/images/icons/websocket.svg" style="height: 40px;"/></a> |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Event-Driven
 
