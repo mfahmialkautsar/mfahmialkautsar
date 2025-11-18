@@ -22,6 +22,7 @@ Welcome to my CodePark 🌳
 <a title="Go" href="https://go.dev"><img alt="Go" height="40" src="./assets/images/icons/go.svg" style="height: 40px;"/></a>
 <a title="TypeScript" href="https://www.typescriptlang.org"><img alt="TypeScript" height="40" src="./assets/images/icons/typescript.svg" style="height: 40px;"/></a>
 <a title="Python" href="https://www.python.org"><img alt="Python" height="40" src="./assets/images/icons/python.svg" style="height: 40px;"/></a>
+<a title="Rust" href="https://www.rust-lang.org"><img alt="Rust" height="40" src="./assets/images/icons/rust.png" style="height: 40px;"/></a>
 <a title="Java" href="https://www.java.com"><img alt="Java" height="40" src="./assets/images/icons/java.svg" style="height: 40px;"/></a>
 <a title="Swift" href="https://www.swift.org"><img alt="Swift" height="40" src="./assets/images/icons/swift.svg" style="height: 40px;"/></a>
 <a title="HTML" href="https://www.w3.org/TR/html/"><img alt="HTML" height="40" src="./assets/images/icons/html.svg" style="height: 40px;"/></a>
@@ -100,6 +101,7 @@ Welcome to my CodePark 🌳
 
 <a title="Playwright" href="https://playwright.dev"><img alt="Playwright" height="40" src="./assets/images/icons/playwright.svg" style="height: 40px;"/></a>
 <a title="Jest" href="https://jestjs.io"><img alt="Jest" height="40" src="./assets/images/icons/jest.svg" style="height: 40px;"/></a>
+<a title="Testcontainers" href="https://www.testcontainers.com"><img alt="Testcontainers" height="40" src="./assets/images/icons/testcontainers.png" style="height: 40px;"/></a>
 
 ## Observability
 
@@ -111,7 +113,7 @@ Welcome to my CodePark 🌳
 <a title="Grafana Alloy" href="https://grafana.com/oss/alloy"><img alt="Grafana Alloy" height="40" src="./assets/images/icons/grafana-alloy.svg" style="height: 40px;"/></a>
 <a title="OpenTelemetry" href="https://opentelemetry.io"><img alt="OpenTelemetry" height="40" src="./assets/images/icons/opentelemetry.svg" style="height: 40px;"/></a>
 
-## API Protocol
+## API
 
 | <strong>REST</strong> | <a title="gRPC" href="https://grpc.io"><img alt="gRPC" height="40" src="./assets/images/icons/grpc.svg" style="height: 40px;"/></a> | <a title="GraphQL" href="https://graphql.org"><img alt="GraphQL" height="40" src="./assets/images/icons/graphql.svg" style="height: 40px;"/></a> | <a title="WebSocket" href="https://websocket.org"><img alt="WebSocket" height="40" src="./assets/images/icons/websocket.svg" style="height: 40px;"/></a> |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
